@@ -2,7 +2,7 @@
 
 <h2>Sobre</h2>
 <p>Projeto desenvolvido durante o curso de prática de programação fornecidas pela Alura. Este projeto tem como objetivos a criação de
- site o qual ira sortear valores dentro de um limite e um máximo.</p>
+ site o qual ira sortear valores dentro de um mínimo e um máximo.</p>
 
 ## Como usar
   Ao entra no site o usuário contará com três campos de entrada numérica do qual pedirá para inserir os respectiovos valore: "Quantidade de números "; "Do número" ; "Até o número"
