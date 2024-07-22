@@ -5,8 +5,7 @@
  site o qual ira sortear valores dentro de um mínimo e um máximo.</p>
 
 ## Como usar
-  Ao entra no site o usuário contará com três campos de entrada numérica do qual pedirá para inserir os respectiovos valore: "Quantidade de números "; "Do número" ; "Até o número"
-  como parâmetro para os valores sorteados, o programa gerar os valores aleatoriamente e ao final irá devolver os valores para o usuário, sem repetições de valor. 
+  Ao entra no site o usuário contará com três campos de entrada numérica do qual pedirá para inserir os respectioos valore: "Quantidade de números "; "Do número" ; "Até o número" como parâmetro para os números sorteados, o programa irá gerar os valores aleatoriamente e ao final irá retornar-los para o usuário, sem repetições dos mesmos. 
 
   Bom uso!!
 
